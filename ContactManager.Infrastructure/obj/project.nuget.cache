@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/bAj/jq6gHqnRMqh1Ruq0IX2whRA6OqP9c9WZ6xrKKDgI2iApuUoFlxpvpYktPT5gj7J5m16lzgTvX3kboDvHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muluken\\RiderProjects\\WebApplication2\\ContactManager.Infrastructure\\ContactManager.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muluken\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
